@@ -1,2 +1,17 @@
-# hello-world
-Fight with your courage and persisitence!
+# SELF-INTRODUCTION
+
+## :whale:PERSONAL INFORMATION
+###### My name is *Emma Xia*.
+###### I am a `starter of coding`. And my major is **Economy**.  
+
+## :whale:MY GOAL
+- [x] Python
+- [ ] C++
+- [ ] R & STATA
+
+## :whale:MY HOMEPAGE
+HERE is my homepage.(waiting...)
+
+## :whale:CONNECTION
+>EMAIL:xiaxinyi0304@163.com
+###### Waiting for your message eargely!
